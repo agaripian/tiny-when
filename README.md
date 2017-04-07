@@ -25,7 +25,7 @@ const options = {
 }
 
 when(codition, options)
-.then(function() {
+.then(() => {
   console.log('Adobe Analaytics and LiveFyre loaded and are ready!');
 });
 ```
