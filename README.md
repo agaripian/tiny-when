@@ -1,4 +1,4 @@
-# Behance Tiny-When [![Build Status](https://img.shields.io/travis/behance/tiny-when.svg)](http://travis-ci.org/behance/tiny-when) [![NPM version](https://img.shields.io/npm/v/tiny-when.svg)](https://www.npmjs.com/package/tiny-when)
+# Tiny-When [![Build Status](https://img.shields.io/travis/behance/tiny-when.svg)](http://travis-ci.org/behance/tiny-when) [![NPM version](https://img.shields.io/npm/v/tiny-when.svg)](https://www.npmjs.com/package/tiny-when)
 
 This Browser / Node.js library that periodically checks _when_ a condition is satisfied.
 
