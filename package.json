@@ -1,6 +1,6 @@
 {
   "name": "tiny-when",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "JS library that periodically checks _when_ a condition is satisfied.",
   "main": "src",
   "scripts": {
